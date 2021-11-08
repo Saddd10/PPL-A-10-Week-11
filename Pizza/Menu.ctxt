@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=void\ menu()
+comment2.params=foodItem
+comment2.target=double\ itemPrice(int)
+comment3.params=
+comment3.target=double\ quantity()
+comment4.params=quantity\ itemPrice
+comment4.target=double\ subTotal(double,\ double)
+comment5.params=runningTotal
+comment5.target=void\ done(double)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
